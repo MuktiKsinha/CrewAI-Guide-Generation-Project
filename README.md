@@ -85,15 +85,6 @@
 
 ---
 
-## 🎬 Demo
-
-### Example Input
-```bash
-📺 YouTube: https://www.youtube.com/watch?v=Zf33S1Lvd20
-🌐 Docs: https://docs.n8n.io/try-it-out/quickstart/
-📁 Notes: ./docs/n8n_notes.md
-```
-
 ### Example Output Preview
 
 ````markdown
@@ -434,11 +425,3 @@ git commit -m "Add amazing feature"
 git push origin feature/amazing-feature
 ```
 
-
-### ⭐ Star this repo if you found it helpful!
-
-Made with ❤️ by developers, for developers
-
-[⬆ Back to Top](#-ai-guide-generator-flow)
-
-</div>
