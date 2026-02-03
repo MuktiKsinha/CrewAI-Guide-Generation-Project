@@ -10,11 +10,10 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-green?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
-![Guide Generator Demo](https://via.placeholder.com/800x400/6366f1/ffffff?text=AI+Guide+Generator+Flow)
 
 *Powered by AI Agents • Multi-Source Research • Beginner-Focused Content*
 
-[🎯 Features](#-features) • [🎬 Demo](#-demo) • [⚡ Quick Start](#-quick-start) • [📖 Documentation](#-how-it-works) • [🤝 Contributing](#-contributing)
+[🎯 Features](#-features) • [⚡ Quick Start](#-quick-start) • [📖 Documentation](#-how-it-works) 
 
 </div>
 
