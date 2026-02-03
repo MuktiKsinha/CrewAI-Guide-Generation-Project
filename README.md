@@ -117,7 +117,7 @@ n8n start
 ...
 ````
 
-📥 **[See Full Example Output](examples/n8n_guide.md)**
+📥 **[See Full Example Output](docs/getting_started_guide.md)**
 
 ---
 
@@ -427,32 +427,6 @@ pip install --upgrade crewai crewai-tools
 
 ---
 
-## 🤝 Contributing
-
-We love contributions! Here's how you can help:
-
-### 🐛 Found a Bug?
-Open an issue with:
-- Description of the problem
-- Steps to reproduce
-- Expected vs actual behavior
-- Your environment (Python version, OS)
-
-### 💡 Have an Idea?
-- Check existing issues first
-- Open a feature request
-- Describe your use case
-
-### 🔧 Want to Contribute Code?
-
-```bash
-# 1. Fork the repo
-# 2. Create a feature branch
-git checkout -b feature/amazing-feature
-
-# 3. Make your changes
-# 4. Test thoroughly
-crewai flow kickoff
 
 # 5. Commit with clear messages
 git commit -m "Add amazing feature"
@@ -461,41 +435,6 @@ git commit -m "Add amazing feature"
 git push origin feature/amazing-feature
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-Built with these amazing tools:
-
-- [CrewAI](https://github.com/joaomdmoura/crewAI) - Multi-agent orchestration
-- [Groq](https://groq.com/) - Lightning-fast inference
-- [Ollama](https://ollama.ai/) - Local LLM runtime
-- [LiteLLM](https://github.com/BerriAI/litellm) - Universal LLM interface
-
----
-
-## 💬 Community & Support
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-Join_Chat-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/your-server)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Documentation](https://img.shields.io/badge/Docs-Read-blue?style=for-the-badge&logo=gitbook)](https://docs.example.com)
-
-**Questions?** Open a [GitHub Issue](https://github.com/yourusername/guide-generator-flow/issues)  
-**Want to Chat?** Join our [Discord Community](https://discord.gg/your-server)
-
-</div>
-
----
-
-<div align="center">
 
 ### ⭐ Star this repo if you found it helpful!
 
